@@ -1,4 +1,4 @@
-# rock_paper_scissors
+# Python projects
 
 Hello everyone,
 
